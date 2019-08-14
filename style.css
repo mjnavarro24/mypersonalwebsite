@@ -41,9 +41,36 @@ body
   color: #fff
 }
 
+/*---------------About-------------*/
+.about{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #E6E6FA;
+
+}
 
 
+.profile-img{
+  height: 400px;
+}
 
+.project-img{
+  height: 250px;
+}
+
+.experiences{
+  padding-top: 100px;
+  padding-bottom: 50px;
+
+}
+/* .nav-link{
+  color: !important;
+} */
+/* .navbar-nav{
+  float: right;
+  text-align: right;
+
+} */
 
 
 /*---Media Queries --*/
